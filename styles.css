@@ -1,0 +1,60 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 1em;
+	/* text-align: left; */
+}
+
+hero {
+	background-image: linear-gradient(to bottom, #333, #555);
+	color: #fff;
+	padding: 2em;
+	text-align: center;
+}
+
+features {
+	background-color: #f7f7f7;
+	padding: 2em;
+}
+
+features ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+features li {
+	margin-bottom: 1em;
+}
+
+features i {
+	margin-right: 1em;
+}
+
+pricing {
+	background-color: #fff;
+	padding: 2em;
+}
+
+pricing ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+pricing li {
+	background-color: #f7f7f7;
+	margin-bottom: 1em;
+	padding: 1em;
+	border: 1px solid #ddd;
+}
+
+pricing h3 {
+	margin-top: 0;
+}
